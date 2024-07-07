@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> should render the heading 1`] = `
+<button
+  class="min-w-[4rem] px-4 py-2 rounded- bg-blue-600"
+>
+  <span>
+    Botão
+  </span>
+</button>
+`;
